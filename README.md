@@ -1,5 +1,6 @@
 # Amazon-Sales-Analysis
 Objective: Data Manipulation and exploring with Pandas.
+dataset = https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 Pandas & Python are user to analyze and answer business questions about Amazon sales customer review data
 
 1.What are the top 10 most reviewed products?
